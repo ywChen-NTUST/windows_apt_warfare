@@ -4,7 +4,7 @@
 
 
 
-[aaaddress1/Windows-APT-Warfare: 著作《Windows APT Warfare：惡意程式前線戰術指南》各章節技術實作之原始碼內容 (github.com)](https://github.com/aaaddress1/Windows-APT-Warfare)
+[aaaddress1/Windows-APT-Warfare](https://github.com/aaaddress1/Windows-APT-Warfare)
 
 
 
